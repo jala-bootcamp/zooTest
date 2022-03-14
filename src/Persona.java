@@ -12,6 +12,7 @@ public class Persona {
         this.fechaDeNacimiento = fechaDeNacimiento;
 
     }
+    // Este es un comentario
 
     public void prueba() {
         setNombre("");
