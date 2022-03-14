@@ -17,6 +17,8 @@ public class Persona {
     public void prueba() {
         setNombre("");
         setFechaDeNacimiento("");
+		
+		int test = 0;
 
     }
 
